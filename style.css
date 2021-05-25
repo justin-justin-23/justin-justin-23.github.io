@@ -1,0 +1,29 @@
+/* No CSS *//*# sourceMappingURL=style.css.map */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    font-size: 35px;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    place-content: center;
+    background-color: blueviolet;
+}
+.text{
+    color: rgb(133, 220, 20);
+}
+#size{
+    position: absolute;
+    top: 60%;
+    left: 40%;
+
+}
+
